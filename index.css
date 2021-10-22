@@ -106,17 +106,9 @@ rgb(255,255,255)
   background-color: hsl(var(--clr-dark));
 }
 
-/* .bg-dark {
-  background-color: #0b0d17;
-} */
-
 .bg-accent {
   background-color: hsl(var(--clr-light));
 }
-
-/* .bg-accent {
-  background-color: rgb(208, 214, 249);
-} */
 
 .bg-white {
   background-color: hsl(var(--clr-white));
