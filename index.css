@@ -109,7 +109,7 @@ select {
 
 .flow > *:where(:not(:first-child)) {
   margin-top: var(--flow-space, 1rem);
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
 }
 
 .container {
@@ -231,3 +231,6 @@ rgb(255,255,255)
   font-weight: 700;
   color: hsl(var(--clr-white) / 0.25);
 }
+
+/* Components */
+/* ---------- */
